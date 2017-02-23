@@ -1,4 +1,4 @@
-﻿Shader "Custom/1 - Vertex Displacement/World Space"
+﻿Shader "Custom/1 - Vertex Displacement/World Space alpha"
 {
 	Properties
 	{
